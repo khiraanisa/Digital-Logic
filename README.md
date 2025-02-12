@@ -1,1 +1,2 @@
-# Digital-Logic
+## SECR1013 ASSIGNMENTS 🧑‍💻
+Digital Logic is the foundation of modern digital systems, including computers, microprocessors, and embedded devices. It focuses on processing binary data (0s and 1s) using logic gates and Boolean algebra. The subject covers number systems such as binary, octal, decimal, and hexadecimal, along with binary arithmetic and data encoding methods like BCD and Gray code. Boolean algebra plays a crucial role in designing logic circuits using basic gates (AND, OR, NOT) and universal gates (NAND, NOR), which are further used to build combinational circuits like adders, multiplexers, and decoders. Sequential circuits, including flip-flops, registers, and counters, introduce the concept of memory and state-based operations 💻
